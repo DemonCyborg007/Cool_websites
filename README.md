@@ -1,1 +1,1 @@
-Hellow these are initial webpages creted using html and css only enjoy
+Hellow these are initial webpages created using html and css only enjoy
